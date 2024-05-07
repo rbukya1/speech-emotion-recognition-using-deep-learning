@@ -29,11 +29,11 @@ The project consists of three main parts:
      - ZCR (Zero Crossing Rate)
      - RMSE (Root Mean Squared Error)
 
-3. **Modeling**
+3. **Modeling**  
    Utilizing three deep learning models:
      - LSTM (Long Short-Term Memory)
      - CNN (Convolutional Neural Network)
-     - GRU (Gated Recurrent Unit)
+     - GRU (Gated Recurrent Unit)  
    Achieving good accuracy.
 
 ### Final Deliverables
