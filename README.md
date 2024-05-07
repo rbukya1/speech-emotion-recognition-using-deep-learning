@@ -13,7 +13,7 @@ The project utilizes three datasets:
 - Toronto emotional speech set (TESS)
 - Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
 
-Combined for modeling. The Datasets file includes dataset briefing as well as website links to download datasets.
+Combined for modeling.  The Datasets file includes dataset briefing as well as website links to download datasets.
 
 ### Project Overview
 The project consists of three main parts:
@@ -23,19 +23,28 @@ The project consists of three main parts:
    - Visualizing the audio using waveplots and spectrograms.
 
 2. **Data Preprocessing**
-   Feature extraction methods include:
+   - Feature extraction methods include:
      - MFCC (Mel-Frequency Cepstral Coefficients)
      - Chroma
      - ZCR (Zero Crossing Rate)
      - RMSE (Root Mean Squared Error)
 
-3. **Modeling**  
-   Utilizing three deep learning models:
+3. **Modeling**
+   - Utilizing three deep learning models:
      - LSTM (Long Short-Term Memory)
      - CNN (Convolutional Neural Network)
-     - GRU (Gated Recurrent Unit)  
-   Achieving good accuracy.
+     - GRU (Gated Recurrent Unit)
+   - Achieving good accuracy.
 
 ### Final Deliverables
 The final Python file is located in the Phase-3 directory along with the saved CNN model and an application file deployed using Streamlit.
 
+## Suggestions and Contributions
+If you have any suggestions for improvement or would like to contribute to the project, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+For more details, contact [Your Name](mailto:your@email.com).
