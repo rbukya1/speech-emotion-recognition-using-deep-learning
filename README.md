@@ -15,8 +15,7 @@ It consists of 3 datasets namely
 - Toronto emotional speech set (TESS)
 - Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)
   
-combined for modeling.  
-The Datasets file consists of dataset briefing as well as website link to download datsets.
+combined for modeling.<br>The Datasets file consists of dataset briefing as well as website link to download datsets.
 
 
 
