@@ -25,7 +25,7 @@ The project consists of 3 parts.
    - LSTM (Long Short-Term Memory)
    - CNN (Convolutional Neural Network)
    - GRU (Gated Recurrent Unit)  
-  and achieved good accuracy
+and achieved good accuracy
   
 Final python file is in directory Phase-3 along with saved CNN model and application file deployed using streamlit.
 
