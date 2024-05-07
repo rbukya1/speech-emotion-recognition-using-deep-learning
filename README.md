@@ -24,7 +24,7 @@ The project consists of 3 parts.
 3. Part-III In this section, we used 3 deep learning models
    - LSTM (Long Short-Term Memory)
    - CNN (Convolutional Neural Network)
-   - GRU (Gated Recurrent Unit)
+   - GRU (Gated Recurrent Unit)  
   and achieved good accuracy
   
 Final python file is in directory Phase-3 along with saved CNN model and application file deployed using streamlit.
